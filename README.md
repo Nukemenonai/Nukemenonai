@@ -11,5 +11,5 @@
 - 💬 Ask me about 
 
 - 📫 How to reach me:
-  [mail](david.giovanni.ovalle@gmail.com)
-  [linkedin](https://www.linkedin.com/feed/)
+  * [mail](david.giovanni.ovalle@gmail.com)
+  * [linkedin](https://www.linkedin.com/in/david-giovani-ovalle-ariza/)
