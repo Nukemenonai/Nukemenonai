@@ -1,7 +1,9 @@
 ### Hi there 👋 I'm David Ovalle
 #### Software developer from Bogotá, Colombia
 
-- 🔭 I’m currently working on the development of microservices with python 🐍 (Flask, FastAPI, Faust)
+- I am currently working developing microservices in serverless environments (AWS Lambda)
+
+- 🔭 I have worked on the development of microservices with python 🐍 (Flask, FastAPI, Faust)
 
 - 🌱 I’m currently learning ML and data science with python (Numpy, Pandas, Tensorflow, Keras)
 
