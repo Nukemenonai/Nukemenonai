@@ -7,7 +7,7 @@
 
 - 🎓 I teach software development.
 
-- 🌱 I'm deepening my knowledge of machine learning and data science with NumPy, Pandas, TensorFlow, Keras, and LangChain.
+- 🌱 I'm deepening my knowledge of AI and machine learning
 
 - 💬 Ask me about backend development, RAG, MCP, or data science. I like learning new things and helping others do the same.
 
